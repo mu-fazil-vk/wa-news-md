@@ -27,7 +27,8 @@ npm install
 node index.js
 ```
 6. Sit back, relax, and let WA-NEWS-MD handle the news distribution to your WhatsApp groups!
-## Join the Demo WhatsApp Group
+   
+## Join the Demo Group 🪀
 Curious to see how WA-NEWS-MD works in action? Join our demo WhatsApp group by clicking the link below:
 
 [Join Demo WhatsApp Group](https://chat.whatsapp.com/DuNykJQ3bohElmWHJ7xecF)
@@ -42,7 +43,9 @@ Web scraping can be a legal gray area, and it's important to understand the impl
 
 ## License 📜
 Wa-news-md is licensed under the MIT [license](https://github.com/mu-fazil-vk/Wa-news-md/blob/main/LICENSE). See the LICENSE file for more information.
+
 ## Contributing
 Have a feature you had like to see added? Create a [pull request](https://github.com/mu-fazil-vk/wa-news-md/pulls) or open an [issue](https://github.com/mu-fazil-vk/wa-news-md/issues).
+
 ## Happy to connect! 😊
 I hope you enjoy my projects. If you have any questions or feedback, please don't hesitate to [reach out to me](https://instagram.com/fazil.v.k).
