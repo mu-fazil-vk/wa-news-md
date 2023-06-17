@@ -44,6 +44,8 @@ Web scraping can be a legal gray area, and it's important to understand the impl
 ## License 📜
 Wa-news-md is licensed under the MIT [license](https://github.com/mu-fazil-vk/Wa-news-md/blob/main/LICENSE). See the LICENSE file for more information.
 
+<p><a href="https://www.buymeacoffee.com/fazilvk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fazilvk" /></a></p><br><br>
+
 ## Contributing
 Have a feature you had like to see added? Create a [pull request](https://github.com/mu-fazil-vk/wa-news-md/pulls) or open an [issue](https://github.com/mu-fazil-vk/wa-news-md/issues).
 
