@@ -1,0 +1,40 @@
+{
+    
+    "name": "Wa-News-MD",
+    "description": "The advanced WhatsApp automation bots.",
+    "keywords": [
+        "bot",
+        "whatsapp",
+        "anime",
+        "whatsapp-bot",
+        "baileys",
+        "baileys-md",
+        "md-bot"
+    ],
+    "website": "https://github.com/mu-fazil-vk/Wa-News-md#readme",
+    "repository": "https://github.com/mu-fazil-vk/Wa-News-md.git",
+    "logo": "https://wallpaperaccess.com/full/3087990.jpg",
+    "success_url": "/",
+    "env": {
+        "SESSION_ID": {
+            "description": "A random string for your bot session. Which works as an OTP to get qr code. And you have to chane sessioon every time to get a new qr."
+        },
+        "OWNER": {
+            "description": "Owner number"
+        },
+        "MONGODB": {
+            "description": "Your MOngoDB URL. If you don't have any read PublicKeys.md to get a public MongoDB URL. Or copy paste it: mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        },
+        {
+            "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        }
+    ]
+  }
